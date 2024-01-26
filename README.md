@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hello World,  am Albert, and I am currently studying Software Engineering at Unicesumar.
+Hello World, I am Albert, and I am currently studying Software Engineering at Unicesumar.
 
 I've always enjoyed developing my own systems and creating solutions that meet my needs.
 However, recently, I've made the decision to turn these skills into my professional career, 
