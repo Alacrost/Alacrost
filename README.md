@@ -1,16 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
- <p>GitHub Profile - Alacrost </p>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
+
 <body>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-## GitHub Profile - ALBERT BAUERMANN
+
+<h2>
+GitHub Profile - ALBERT BAUERMANN
+</h2> 
 <p>
 <li>
   <ul>
