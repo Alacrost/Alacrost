@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <p>GitHub Profile - Alacrost </p>
+ <p>GitHub Profile - Alacrost </p>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
@@ -10,7 +10,19 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-# GitHub Profile - Albert Bauermann
+## GitHub Profile - ALBERT BAUERMANN
+<p>
+<li>
+  <ul>
+    🚧 Software Engineering - In Progress
+  </ul>
+  <ul>
+    🚧 IBM Full Stack Software Developer Professional Certificate - In Progress
+  </ul>
+  </li>
+  </ul>
+
+
 
 ## About Me
 
