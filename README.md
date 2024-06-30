@@ -12,7 +12,7 @@ GitHub Profile - ALBERT BAUERMANN
     🚧 Software Engineering - In Progress
   </ul>
   <ul>
-    🚧 IBM Full Stack Software Developer Professional Certificate - In Progress
+    🚧 IBM Data Analyst Professional Certificate - In Progress
   </ul>
   </li>
   </ul>
